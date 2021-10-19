@@ -1,6 +1,14 @@
 # vtk-python-qt
 Example of VTK using Python and Qt.
 
+# Installation
+```
+> sudo apt-get install python3-pip
+> pip3 install --upgrade pip setuptools wheel
+> pip3 install vtk
+> pip3 install PyQt5
+```
+
 # ex01
 ![image](https://github.com/jeonjiun/vtk-python-qt/blob/main/result/ex01.png?raw=true)
 
